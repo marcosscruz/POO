@@ -1,0 +1,46 @@
+a. Verificar vaga na agenda:
+  -Funcionário abre o aplicativo da agenda.
+  -O sistema exibe o calendário de dias com quarto disponíveis para reserva.
+  -Funcinaprio seleciona a data desejada do hospede.
+  -O sistema exibe se há quaurtos disponíveis para a data escolhida.
+  -Funcionário agenda a data desejada.
+  -O sistema confirma a escolha do cliente e exibe uma tela de confirmação para o funcinário.
+
+b. Fazer uma reserva preliminar:
+  -Funcinário abre o aplicativo que lista as reservas realizadas.
+  -O sistema exibe campos para preenchimento de dados do cliente.
+  o calendário com os dias disponíveis para agendamento.
+  -Usuário seleciona a data desejada.
+  -O sistema exibe os horários disponíveis para a data selecionada.
+  -Usuário escolhe o horário desejado.
+  -O sistema verifica se há vaga disponível para a data e horário selecionados.
+  -Se houver vaga disponível, o sistema solicita ao usuário que informe seu nome e número de telefone para confirmar a reserva preliminar.
+  -O sistema envia um código de confirmação para o número de telefone informado pelo usuário.
+  -O usuário insere o código de confirmação recebido para concluir a reserva preliminar.
+  -O sistema informa ao usuário que a reserva preliminar foi concluída e que ele deve aguardar a confirmação final por parte do estabelecimento.
+
+c. Cancelar uma reserva:
+  -Usuário abre o aplicativo de reserva.
+  -O sistema exibe a lista de todas as reservas feitas pelo usuário.
+  -Usuário seleciona a reserva que deseja cancelar.
+  -O sistema exibe os detalhes da reserva, como data, horário, nome e telefone do usuário.
+  -Usuário confirma que deseja cancelar a reserva.
+  -O sistema confirma o cancelamento da reserva e exibe uma mensagem de sucesso.
+
+d. Lançar despesa diária de um quarto:
+  -Usuário abre o aplicativo de lançamento de despesas.
+  -O sistema exibe a lista de todos os quartos disponíveis.
+  -Usuário seleciona o quarto onde ocorreu a despesa.
+  -O sistema exibe as despesas já lançadas para o quarto selecionado.
+  -Usuário seleciona a opção "Lançar nova despesa".
+  -O sistema solicita ao usuário que informe a descrição da despesa e o valor.
+  -O usuário insere as informações solicitadas e confirma o lançamento da despesa.
+  -O sistema exibe as despesas atualizadas para o quarto selecionado e o saldo total do quarto.
+
+e. Gerar balanço mensal:
+  -Usuário abre o aplicativo de balanço mensal.
+  -O sistema exibe um calendário para que o usuário selecione o mês e o ano desejados.
+  -Usuário seleciona o mês e o ano desejados.
+  -O sistema exibe um resumo das receitas e despesas para o período selecionado.
+  -O usuário pode visualizar os detalhes das receitas e despesas lançadas no período selecionado, bem como o saldo parcial para cada dia.
+  -O sistema exibe o saldo final para o período selecionado, que é a soma de todas as receitas menos todas as despesas.
