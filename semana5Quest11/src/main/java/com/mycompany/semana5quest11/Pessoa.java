@@ -8,7 +8,7 @@ package com.mycompany.semana5quest11;
  *
  * @author marce
  */
-public class Pessoa {
+public class Pessoa extends Object {
     private static int contador = 0;
     private String nome;
     private int idade;
